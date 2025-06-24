@@ -10,3 +10,4 @@ Each entry addresses a common question about the **Catalan language**, offering 
 
 **License:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 
+**Author:** Optimot, a service provided by the Directorate - General of Linguistic Policy of the Catalan Government
